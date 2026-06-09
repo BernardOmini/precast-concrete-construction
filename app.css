@@ -1,0 +1,75 @@
+
+
+
+
+.scaffolding {
+    width: 400px
+}
+
+.beam {
+    width: 300px;
+}
+
+.staircase {
+    width: 280px;
+}
+
+.column {
+    width: 400px
+}
+
+h1 {
+    color: teal
+}
+
+h2 { 
+    color: green
+}
+
+h3 {
+    color: gray
+}
+
+
+li {
+    color: rgb(24, 3, 43)
+}
+
+strong {
+    color: red
+}
+
+
+
+th {
+    color: green
+}
+
+
+td {
+    color: rgb(24, 3, 43)
+}
+
+
+rgb(219, 130, 14)
+
+
+
+a {
+    text-decoration: none
+}
+
+
+
+.building-components {
+    width: 500px;
+}
+.superstructure {
+    width: 500px
+}
+
+
+
+.scaffolding-page {
+    background-color:blue;
+}
